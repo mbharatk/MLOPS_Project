@@ -39,5 +39,5 @@ jobs:
       - name: Test with pytest
         run: |
           pip install pytest
-          pytest test.py
+          pytest /Users/bharatkumar/Documents/Work/UIC\ Classwork/MSBA\ Sem\ 1/MLOPS/MLOPS_Project/test.py
           
